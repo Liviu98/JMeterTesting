@@ -1,2 +1,2 @@
-# Teste-Jmeter
-Testari ale performantei folosind JMeter
+# JMeter Tests
+Performance testing using JMeter tools for the following sites: DemoqaBooks.
