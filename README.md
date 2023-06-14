@@ -7,5 +7,7 @@ Performance testing using JMeter tools for the following sites: DemoqaBooks.
 ![JMETER2](https://github.com/Liviu98/JMeterTesting/assets/129300621/b8345e36-a323-4e07-8c38-70556438d06e)
 # 3rd Test: Load test using 10 users and to show the aggregate graph.
 ![JMteter3](https://github.com/Liviu98/JMeterTesting/assets/129300621/0a6ecf8d-b130-40cc-b1bc-6648ab518cd8)
+# 4th Test: DataUsa.io: API TEST.
+![JMeter4](https://github.com/Liviu98/JMeterTesting/assets/129300621/f9427f57-43bf-4acf-ab47-0dcd4b570fbd)
 
 
